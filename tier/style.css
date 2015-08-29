@@ -71,23 +71,26 @@ input[type="text"].levelPM {
 
 .tier1 {
 	background-color: #ed6764;
-}
+{	
 .tier2 {
-	background-color: #f88157;
+	background-color: #ed6764;
 }
 .tier3 {
-	background-color: #eae286;
+	background-color: #f88157;
 }
 .tier4 {
-	background-color: #8abc6e;
+	background-color: #eae286;
 }
 .tier5 {
-	background-color: #779fde;
+	background-color: #8abc6e;
 }
 .tier6 {
-	background-color: #627ee0;
+	background-color: #779fde;
 }
 .tier7 {
+	background-color: #627ee0;
+}
+.tier8 {
 	background-color: #c86acb;
 }
 
